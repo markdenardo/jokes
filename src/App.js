@@ -15,14 +15,11 @@ function App() {
 
   useEffect(hook, []);
 
-  console.log(joke.setup);
   return (
     <div className="App">
-      <ol>
-        {" "}
-        {joke}
-        <button onClick={hook}>new joke?</button>
-      </ol>
+      <div>Cat Facts</div>
+      <div className="joke">{joke}</div>
+      <button onClick={hook}>new cat fact?</button>
     </div>
   );
 }
