@@ -1,3 +1,8 @@
-this was a jokes api, but the api went away.
+a jokes api, but the api went away.
+
 i replaced it w cat facts.
-just wanted to make something using react hooks and axios; enjoy
+
+using react hooks and axios
+
+site: https://markdenardo.github.io/jokes/
+
